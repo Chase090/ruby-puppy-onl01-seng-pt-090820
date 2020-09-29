@@ -13,5 +13,9 @@ class Dog
     @@all
   end
   
+  def self.print_all
+nums.each do |num|
+    puts num
+end
   
 end 
