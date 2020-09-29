@@ -14,7 +14,9 @@ class Dog
   end
   
   def self.print_all
-  puts asdfa
+  @@all.each do |pups|
+    puts.name
+  end
 end
   
 end 
