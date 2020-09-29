@@ -14,8 +14,7 @@ class Dog
   end
   
   def self.print_all
-nums.each do |num|
-    puts 
+  puts asdfa
 end
   
 end 
